@@ -69,7 +69,10 @@ a{
     padding: 50px;
     margin: 10px;
     position: relative;
-    border-radius: 10px;
+    border-radius: 20px;
+    border: 4px solid #c4ec74;
+    /* border-color:linear-gradient(10deg, #0000FF, #FCFF00); */
+    /* border-slice:1; */
 }
 .top-bar{
     width: 50%;
@@ -117,10 +120,14 @@ a{
 .content img{
     width: 120px;
     height: 120px;
-    border-radius:100px;
     overflow: hidden;
     object-fit: cover;
     object-position: top;
+    border: 4px solid rgb(2, 21, 101);
+    /* border: 4px solid transparent;
+    border-image:linear-gradient(30deg, #FF1200, #FCFF00, #36FF00, #0000FF, #E29000, #0CFFEB);
+    border-image-slice:1; */
+    border-radius:100px;
 }
 .content{
     display: flex;
