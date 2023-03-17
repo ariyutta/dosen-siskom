@@ -6,58 +6,56 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TV Information | Prodi Rekayasa Sistem Komputer</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
     <style>
-    hr {
-        border: 1px;
-        border-top: 3px double #8c8c8c;
-    }
+        hr {
+            border: 1px;
+            border-top: 3px double #8c8c8c;
+        }
 
-    #isi,
-    h1 {
-        text-align: center;
-        font-size: 50px;
-    }
+        #isi,
+        h1 {
+            text-align: center;
+            font-size: 50px;
+        }
 
-    #status {
-        margin-top: 30px;
-        text-align: center;
-    }
+        #status {
+            margin-top: 30px;
+            text-align: center;
+        }
 
-    #teks-status {
-        font-size: 50px;
-        padding-top: 30px;
-        padding-bottom: 30px;
-        padding-right: 100px;
-        padding-left: 100px;
-        border-radius: 60px;
-    }
+        #teks-status {
+            font-size: 50px;
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-right: 100px;
+            padding-left: 100px;
+            border-radius: 60px;
+        }
 
-    #teks-prodi {
-        margin-top: 40px;
-    }
+        #teks-prodi {
+            margin-top: 40px;
+        }
 
-    #status-dosen {
-        font-size: 20px;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        padding-right: 30px;
-        padding-left: 30px;
-        border-radius: 60px;
-    }
+        #status-dosen {
+            font-size: 20px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-right: 30px;
+            padding-left: 30px;
+            border-radius: 60px;
+        }
 
-    .gambar-prodi {
-        margin-top: 20px;
-    }
+        .gambar-prodi {
+            margin-top: 20px;
+        }
 
-    #tag-box {
-        font-size: 25px;
-    }
+        #tag-box {
+            font-size: 25px;
+        }
     </style>
 </head>
 
@@ -119,7 +117,7 @@
                     </div>
                     <div class="box shadow">
                         <div class="top d-flex justify-content-center">
-                            <span id="tag-box">KEPALA LABORAN</span>
+                            <span id="tag-box">KEPALA LABORATURIUM</span>
                         </div>
                         <div class="content mt-4">
                             <img src="images/dosen/198802272015041001-Syamsul Bahri.png" alt="">
@@ -381,26 +379,21 @@
             </div>
 
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
-            data-bs-slide="prev">
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
         </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
-            data-bs-slide="next">
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
     </div>
 </body>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
 </script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
-    integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous">
 </script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"
-    integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous">
 </script>
 
 </html>
